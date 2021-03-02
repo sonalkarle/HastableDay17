@@ -51,14 +51,7 @@ namespace DataStructure
             }
             int frequency1 = LinkedHashMap.Get("paranoid");
             Console.WriteLine(frequency1);
-            ///<summary>
-            ///UC3: Remove particular word from the paragraph
-            /// </summary>
-            LinkedHashMap.Remove("avoidable");
-            int frequency2= LinkedHashMap.Get("avoidable");
-        
-            Console.WriteLine(frequency2);
-
+          
 
         }
     }
